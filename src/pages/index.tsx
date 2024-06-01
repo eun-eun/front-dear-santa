@@ -1,5 +1,6 @@
 import React from 'react';
 import Head from 'next/head';
+import NoPost from 'src/components/NoPost';
 
 const IndexPage = () => {
   return (
@@ -7,7 +8,7 @@ const IndexPage = () => {
       <Head>
         <title>디어 산타</title>
       </Head>
-      test
+      <NoPost />
     </>
   );
 };

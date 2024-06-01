@@ -1,4 +1,4 @@
-export const defaultFontFamilyName: string = 'NanumSquareRound';
+export const defaultFontFamilyName: string = 'KNPSKkomi';
 
 export enum FontType {
   BASE,

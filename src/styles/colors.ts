@@ -63,33 +63,3 @@ export class ColorPalette {
 
   static BOX_SHADOW: string = `rgba(209, 170, 135, 0.2)`;
 }
-
-export const getSemesterBgColor = ($semester: string) => {
-  switch ($semester) {
-    case '3-1':
-    case '3-2':
-      return `#F69D03`;
-    case '4-1':
-    case '4-2':
-      return `#1F9B00`;
-    case '5-1':
-    case '5-2':
-      return `#1778FF`;
-    case '6-1':
-    case '6-2':
-      return `color:#E62E49`;
-    default:
-      return `color: #000000;`;
-  }
-};
-
-export const getPassFailColor = ($result: string) => {
-  switch ($result) {
-    case 'PASS':
-      return `#1778FF`;
-    case 'FAIL':
-      return `#E62E49`;
-    default:
-      return `color: #000000;`;
-  }
-};
