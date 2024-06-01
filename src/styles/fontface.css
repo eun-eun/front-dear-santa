@@ -1,0 +1,95 @@
+@font-face {
+  font-family: 'NanumSquareRound';
+  font-weight: 400;
+  font-style: normal;
+  src: url(https://hangeul.pstatic.net/hangeul_static/webfont/NanumSquareRound/NanumSquare-Regular.eot);
+  src:
+    url(https://hangeul.pstatic.net/hangeul_static/webfont/NanumSquareRound/NanumSquare-Regular.eot?#iefix)
+      format('embedded-opentype'),
+    url(https://hangeul.pstatic.net/hangeul_static/webfont/NanumSquareRound/NanumSquare-Regular.woff2)
+      format('woff2'),
+    url(https://hangeul.pstatic.net/hangeul_static/webfont/NanumSquareRound/NanumSquare-Regular.woff)
+      format('woff'),
+    url(https://hangeul.pstatic.net/hangeul_static/webfont/NanumSquareRound/NanumSquare-Regular.ttf)
+      format('truetype');
+}
+@font-face {
+  font-family: 'NanumSquareRound';
+  font-weight: 500;
+  font-style: normal;
+  src: url(https://hangeul.pstatic.net/hangeul_static/webfont/NanumSquareRound/NanumSquare-Bold.eot);
+  src:
+    url(https://hangeul.pstatic.net/hangeul_static/webfont/NanumSquareRound/NanumSquare-Bold.eot?#iefix)
+      format('embedded-opentype'),
+    url(https://hangeul.pstatic.net/hangeul_static/webfont/NanumSquareRound/NanumSquare-Bold.woff2)
+      format('woff2'),
+    url(https://hangeul.pstatic.net/hangeul_static/webfont/NanumSquareRound/NanumSquare-Bold.woff)
+      format('woff'),
+    url(https://hangeul.pstatic.net/hangeul_static/webfont/NanumSquareRound/NanumSquare-Bold.ttf)
+      format('truetype');
+}
+@font-face {
+  font-family: 'NanumSquareRound';
+  font-weight: 700;
+  font-style: normal;
+  src: url(https://hangeul.pstatic.net/hangeul_static/webfont/NanumSquareRound/NanumSquare-ExtraBold.eot);
+  src:
+    url(https://hangeul.pstatic.net/hangeul_static/webfont/NanumSquareRound/NanumSquare-ExtraBold.eot?#iefix)
+      format('embedded-opentype'),
+    url(https://hangeul.pstatic.net/hangeul_static/webfont/NanumSquareRound/NanumSquare-ExtraBold.woff2)
+      format('woff2'),
+    url(https://hangeul.pstatic.net/hangeul_static/webfont/NanumSquareRound/NanumSquare-ExtraBold.woff)
+      format('woff'),
+    url(https://hangeul.pstatic.net/hangeul_static/webfont/NanumSquareRound/NanumSquare-ExtraBold.ttf)
+      format('truetype');
+}
+/* 
+
+@font-face {
+  font-family: 'NanumSquareRound';
+  font-weight: 400;
+  font-style: normal;
+  src: url(./fonts/NanumSquare-Regular.eot);
+  src:
+    url(./fonts/NanumSquare-Regular.eot),
+    url(./fonts/NanumSquare-Regular.eot?#iefix) format('embedded-opentype'),
+    url(./fonts/NanumSquare-Regular.woff2) format('woff2'),
+    url(./fonts/NanumSquare-Regular.woff) format('woff'),
+    url(./fonts/NanumSquare-Regular.ttf) format('truetype'),
+    url(./fonts/NanumSquare-Regular.eot?#iefix) format('embedded-opentype'),
+    url(./fonts/NanumSquare-Regular.woff2) format('woff2'),
+    url(./fonts/NanumSquare-Regular.woff) format('woff'),
+    url(./fonts/NanumSquare-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'NanumSquareRound';
+  font-weight: 500;
+  font-style: normal;
+  src: url(./fonts/NanumSquare-Bold.eot);
+  src:
+    url(./fonts/NanumSquare-Bold.eot),
+    url(./fonts/NanumSquare-Bold.eot?#iefix) format('embedded-opentype'),
+    url(./fonts/NanumSquare-Bold.woff2) format('woff2'),
+    url(./fonts/NanumSquare-Bold.woff) format('woff'),
+    url(./fonts/NanumSquare-Bold.ttf) format('truetype'),
+    url(./fonts/NanumSquare-Bold.eot?#iefix) format('embedded-opentype'),
+    url(./fonts/NanumSquare-Bold.woff2) format('woff2'),
+    url(./fonts/NanumSquare-Bold.woff) format('woff'),
+    url(./fonts/NanumSquare-Bold.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'NanumSquareRound';
+  font-weight: 700;
+  font-style: normal;
+  src: url(./fonts/NanumSquare-ExtraBold.eot);
+  src:
+    url(./fonts/NanumSquare-ExtraBold.eot),
+    url(./fonts/NanumSquare-ExtraBold.eot?#iefix) format('embedded-opentype'),
+    url(./fonts/NanumSquare-ExtraBold.woff2) format('woff2'),
+    url(./fonts/NanumSquare-ExtraBold.woff) format('woff'),
+    url(./fonts/NanumSquare-ExtraBold.ttf) format('truetype'),
+    url(./fonts/NanumSquare-ExtraBold.eot?#iefix) format('embedded-opentype'),
+    url(./fonts/NanumSquare-ExtraBold.woff2) format('woff2'),
+    url(./fonts/NanumSquare-ExtraBold.woff) format('woff'),
+    url(./fonts/NanumSquare-ExtraBold.ttf) format('truetype');
+} */
