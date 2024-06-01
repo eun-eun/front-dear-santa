@@ -1,5 +1,4 @@
 import * as React from 'react';
-import SendIcon from '@mui/icons-material/Send';
 import ButtonDefault from 'src/components/common/button/ButtonDefault';
 import * as Styled from './style';
 
