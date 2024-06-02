@@ -1,10 +1,8 @@
-export const defaultFontFamilyName: string = 'KNPSKkomi';
+export const defaultFontFamilyName: string = 'Gamja Flower';
 
 export enum FontType {
   BASE,
-  INFO,
   TITLE_SUB,
-  M_BOX_COMMENT,
 }
 
 export const getFontType = (type: FontType) => {
@@ -15,23 +13,11 @@ export const getFontType = (type: FontType) => {
         font-size: 2.5rem;
         line-height: 1.5;
       `;
-    case FontType.INFO:
-      return `
-        font-weight: 700;
-        font-size: 1.25rem;
-        line-height: 1.5;
-      `;
 
     case FontType.TITLE_SUB:
       return `
         font-weight: 700;
         font-size: 1.5rem;
-        line-height: 1.5;
-      `;
-    case FontType.M_BOX_COMMENT:
-      return `
-        font-weight: 600;
-        font-size: 1.875rem;
         line-height: 1.5;
       `;
   }
