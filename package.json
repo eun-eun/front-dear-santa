@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "copy .env.development .env.local /Y &&next dev",
-    "build": "cp .env.development .env.local /Y && next build",
+    "build": "cp .env.development .env.local && next build",
     "start": "next start",
     "lint": "next lint",
     "lint:fix": "next lint  -- --fix"
